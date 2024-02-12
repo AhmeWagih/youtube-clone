@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import { Typography, Card, CardContent, CardMedia } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
-
 import {
   demoThumbnailUrl,
   demoVideoUrl,
@@ -9,9 +8,8 @@ import {
   demoChannelUrl,
   demoChannelTitle,
 } from "../utils/constants";
-
-const VedioCard = ({
-  vedio: {
+const VideoCard = ({
+  video: {
     id: { videoId },
     snippet,
   },
@@ -56,4 +54,4 @@ const VedioCard = ({
   );
 };
 
-export default VedioCard;
+export default VideoCard;
