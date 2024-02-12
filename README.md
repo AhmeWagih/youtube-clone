@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+ ![YouTube_Clone](https://github.com/AhmeWagih/youtube-clone/assets/113104074/2412a3c6-ede7-404f-a122-17c04d2f15da)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
